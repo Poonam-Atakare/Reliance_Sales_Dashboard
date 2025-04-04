@@ -54,3 +54,4 @@ To improve Reliance's sales in 2023 & 2024, a strategic marketing plan should be
 
 ## Dashboard Interaction
 •	View and interact with the Power BI Dashboard to explore insights visually.
+![Screenshot 2025-04-04 185659](https://github.com/user-attachments/assets/11f6e5bd-b7fa-4d32-bffb-1c0c803c63db)
